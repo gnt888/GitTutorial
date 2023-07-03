@@ -1,4 +1,8 @@
 This is a second file.
 Who can see what's hapeening next...?
 I have to add some more to this file.
+<<<<<<< .merge_file_D9fmEV
 Ben was here.
+=======
+Anne was here...
+>>>>>>> .merge_file_hjXezK
